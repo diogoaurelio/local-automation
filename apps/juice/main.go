@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"pico/clients"
+	"juice/clients"
 	"time"
 
 	"github.com/joho/godotenv"

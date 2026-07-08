@@ -1,4 +1,4 @@
-module pico
+module juice
 
 go 1.25
 
